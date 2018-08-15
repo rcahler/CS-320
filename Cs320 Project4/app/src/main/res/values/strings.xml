@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="enter_search">Enter a search term</string>
+    <string name="search">Search</string>
+    <string name="string">Search returns no results</string>
+    <string-array name="content_array">
+        <item>Music</item>
+        <item>Movie</item>
+        <item>Software</item>
+    </string-array>
+</resources>

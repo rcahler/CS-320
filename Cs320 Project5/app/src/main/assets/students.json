@@ -1,0 +1,32 @@
+[
+	{
+		"firstName":"John",
+		"lastName":"Smith",
+		"year":"Freshman",
+		"gpa":3.8
+	},
+	{
+		"firstName":"Jane",
+		"lastName":"Davis",
+		"year":"Sophomore",
+		"gpa":3.9
+	},
+	{
+		"firstName":"Alice",
+		"lastName":"Jones",
+		"year":"Freshman",
+		"gpa":3.6
+	},
+	{
+		"firstName":"Bob",
+		"lastName":"Johnson",
+		"year":"Senior",
+		"gpa":3.7
+	},
+	{
+		"firstName":"Carol",
+		"lastName":"Pollard",
+		"year":"Junior",
+		"gpa":4.0
+	}
+]

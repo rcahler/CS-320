@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project2Part1</string>
+    <string name="days"> Days</string>
+    <string name="cars">Cars</string>
+    <string name="button" >Calculate</string>
+    <string name="textview">TextView</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project2Part3</string>
+    <string name="price">Prices</string>
+    <string name="discount">Discount</string>
+    <string name="button">Button</string>
+    <string name="textView">TextView</string>
+</resources>
